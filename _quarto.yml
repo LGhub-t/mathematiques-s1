@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Mathématiques S1"
+  navbar:
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Contenu"
+        menu:
+          - text: "Notions de Logique"
+            href: posts/logique.qmd
+          - text: "Ensembles"
+            href: posts/ensembles.qmd
+          - text: "Applications"
+            href: posts/applications.qmd
+          - text: "Barycentre"
+            href: posts/barycentre.qmd
+          - text: "Produit Scalaire (Plan)"
+            href: posts/produit-scalaire-plan.qmd
+          - text: "Rotation dans le Plan"
+            href: posts/rotation-plan.qmd
+          - text: "Dénombrement"
+            href: posts/denombrement.qmd
+          - text: "Arithmétique dans ℤ"
+            href: posts/arithmetique.qmd
+          - text: "Vecteurs de l'Espace"
+            href: posts/vecteurs-espace.qmd
+          - text: "Étude Analytique de l'Espace"
+            href: posts/analytique-espace.qmd
+          - text: "Produit Scalaire (Espace)"
+            href: posts/produit-scalaire-espace.qmd
+          - text: "Produit Vectoriel"
+            href: posts/produit-vectoriel.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: true
+
+execute:
+  freeze: auto

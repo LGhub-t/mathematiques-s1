@@ -1,0 +1,31 @@
+---
+title: "Mathématiques Semestre 1"
+subtitle: "Consolidation des Fondamentaux"
+---
+
+Bienvenue dans mon blog de mathématiques!
+
+Ce blog est un espace pour approfondir et consolider les concepts fondamentaux du semestre 1, en passant par la logique, les ensembles, l'algèbre linéaire et la géométrie analytique de l'espace.
+
+## Objectif
+
+L'idée est de documenter ma compréhension de chaque concept, d'explorer les connexions entre les sujets, et de renforcer ma rétention long terme par la réécriture régulière et la pratique.
+
+## Contenu du Semestre 1
+
+Le programme couvre les sujets suivants (cliquez sur le menu "Contenu" pour accéder aux pages):
+
+1. Notions de Logique
+2. Ensembles
+3. Applications
+4. Barycentre
+5. Produit Scalaire dans le Plan
+6. Rotation dans le Plan
+7. Dénombrement
+8. Arithmétique dans ℤ
+9. Vecteurs de l'Espace
+10. Étude Analytique de l'Espace
+11. Produit Scalaire dans l'Espace
+12. Produit Vectoriel dans l'Espace
+
+À bientôt! 🚀
